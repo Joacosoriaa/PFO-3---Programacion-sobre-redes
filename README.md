@@ -9,7 +9,7 @@ en Python.
 ## Diagrama de arquitectura
 
 El siguiente diagrama representa la arquitectura propuesta para el sistema distribuido.
-![Diagrama del sistema distribuido](diagrama_arquitectura.png)
+![Diagrama del sistema distribuido](Diagrama_Arquitectura.png)
 
 ## Componentes
 - Cliente Python: envia tareas y recibe resultados.
